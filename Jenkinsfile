@@ -10,4 +10,6 @@ steps {
          echo "M2_Home = $ {M2_HOME}"
 
 }
-}
+}done
+add: name
+Run: Maven 
